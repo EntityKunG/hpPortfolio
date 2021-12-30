@@ -575,7 +575,7 @@
 	            <h3 class="mb-1">เทคโนโลยีสารสนเทศ</h3>
 	            <hr>
 	            <div class="container-fluid w-100 mb-5">
-		            <iframe style="width:100%; height:80vh" src="https://online.fliphtml5.com/iaqmw/pcud/" seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+		            <iframe style="width:100%; height:80vh" src="https://online.fliphtml5.com/iaqmw/ypmf/" seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
 		        </div>
 	        </div>
 	    </section>
