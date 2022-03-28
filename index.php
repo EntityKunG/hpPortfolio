@@ -249,13 +249,12 @@
 		                            <div class="col-4 col-md-2"> <img src="/img/cropped-it-logo.png" class="img img-fluid" />
 		                            </div>
 		                            <div class="col-8 col-md-10">
-		                                <p>คณะ: <b>เทคโนโลยีสารสนเทศ</b></p>
-		                                <p>สาขา: <b>เทคโนโลยีสารสนเทศ</b></p>
+		                                <p>คณะ <b>เทคโนโลยีสารสนเทศ</b> สาขาเทคโนโลยีสารสนเทศ</p>
 		                            </div>
 		                        </div>
 		                    </div>
 		                    <div class="resume-date text-md-right">
-		                        <h5><span class="badge badge-danger text-white"><i class="far fa-clock"></i> 2563 - 2564</span></h5>
+		                        <h5><span class="badge badge-danger text-white"><i class="far fa-clock"></i> 2565 - 2569</span></h5>
 		                    </div>
 		                </div>
 	            	</li>
