@@ -240,21 +240,40 @@
                 <h2 class="mb-5"><b>ประวัติการศึกษา</b></h2>
                 
                 <ul class="timeline">
-                    <li>
-		                <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+               		<li>
+	            		<div class="resume-item d-flex flex-column flex-md-row justify-content-between">
 		                    <div class="resume-content md-1">
-		                        <h3 class="mb-0">โรงเรียนสุทธิรักษ์</h3>
-		                        <div class="subheading mb-3"><span class="badge badge-danger">ระดับประถมศึกษาตอนต้นและปลาย</span></div>
+		                        <h3 class="mb-0">สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง</h3>
+		                        <div class="subheading mb-3"><span class="badge badge-danger">ระดับอุดมศึกษา</span></div>
 		                        <div class="row">
-		                            <div class="col-4 col-md-2"> <img src="/suthraklogo.png" class="img img-fluid" />
+		                            <div class="col-4 col-md-2"> <img src="/img/cropped-it-logo.png" class="img img-fluid" />
 		                            </div>
 		                            <div class="col-8 col-md-10">
-		                                <p>แผนการเรียน: <b>สายการเรียนปกติ</b></p>
+		                                <p>คณะ: <b>เทคโนโลยีสารสนเทศ</b></p>
+		                                <p>สาขา: <b>เทคโนโลยีสารสนเทศ</b></p>
 		                            </div>
 		                        </div>
 		                    </div>
 		                    <div class="resume-date text-md-right">
-		                        <h5><span class="badge badge-danger text-white"><i class="far fa-clock"></i> 2553 - 2559</span></h5>
+		                        <h5><span class="badge badge-danger text-white"><i class="far fa-clock"></i> 2563 - 2564</span></h5>
+		                    </div>
+		                </div>
+	            	</li>
+	            	<li>
+	            		<div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+		                    <div class="resume-content md-1">
+		                        <h3 class="mb-0">โรงเรียนมหาวชิราวุธ จังหวัดสงขลา</h3>
+		                        <div class="subheading mb-3"><span class="badge badge-danger">ระดับมัธยมศึกษาตอนปลาย</span></div>
+		                        <div class="row">
+		                            <div class="col-4 col-md-2"> <img src="/mvsklogo.png" class="img img-fluid" />
+		                            </div>
+		                            <div class="col-8 col-md-10">
+		                                <p>แผนการเรียน: <b>ศิลปภาษาต่างประเทศเกาหลี-ญี่ปุ่น</b></p>
+		                            </div>
+		                        </div>
+		                    </div>
+		                    <div class="resume-date text-md-right">
+		                        <h5><span class="badge badge-danger text-white"><i class="far fa-clock"></i> 2563 - 2564</span></h5>
 		                    </div>
 		                </div>
 	            	</li>
@@ -276,21 +295,21 @@
 		                    </div>
 		                </div>
 	            	</li>
-	            	<li>
-	            		<div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+                    <li>
+		                <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
 		                    <div class="resume-content md-1">
-		                        <h3 class="mb-0">โรงเรียนมหาวชิราวุธ จังหวัดสงขลา</h3>
-		                        <div class="subheading mb-3"><span class="badge badge-danger">ระดับมัธยมศึกษาตอนปลาย</span></div>
+		                        <h3 class="mb-0">โรงเรียนสุทธิรักษ์</h3>
+		                        <div class="subheading mb-3"><span class="badge badge-danger">ระดับประถมศึกษาตอนต้นและปลาย</span></div>
 		                        <div class="row">
-		                            <div class="col-4 col-md-2"> <img src="/mvsklogo.png" class="img img-fluid" />
+		                            <div class="col-4 col-md-2"> <img src="/suthraklogo.png" class="img img-fluid" />
 		                            </div>
 		                            <div class="col-8 col-md-10">
-		                                <p>แผนการเรียน: <b>ศิลปภาษาต่างประเทศเกาหลี-ญี่ปุ่น</b></p>
+		                                <p>แผนการเรียน: <b>สายการเรียนปกติ</b></p>
 		                            </div>
 		                        </div>
 		                    </div>
 		                    <div class="resume-date text-md-right">
-		                        <h5><span class="badge badge-danger text-white"><i class="far fa-clock"></i> 2563 - 2564</span></h5>
+		                        <h5><span class="badge badge-danger text-white"><i class="far fa-clock"></i> 2553 - 2559</span></h5>
 		                    </div>
 		                </div>
 	            	</li>
